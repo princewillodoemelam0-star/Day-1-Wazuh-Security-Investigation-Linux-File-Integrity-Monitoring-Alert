@@ -129,10 +129,6 @@ This indicated a change in the file's filesystem identity.
 
 Wazuh also recorded the file's MD5, SHA1, and SHA256 values after the event.
 
-However, the screenshots do not provide the previous hash values for comparison. Therefore, I cannot independently confirm the exact content difference from the available evidence.
-
-I would compare the current file hash against a trusted baseline and investigate the file's history.
-
 Step 5: MITRE ATT&CK Mapping
 
 Wazuh displayed the following MITRE ATT&CK mapping:
